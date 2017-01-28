@@ -46,4 +46,4 @@
 	  currentVegetable = vegetables[loopTracker];
 	  veggieElement.innerHTML += "<div>" + currentVegetable + "</div>";
 	  console.log("Current Vegetable", currentVegetable);
-	}
+	} 
